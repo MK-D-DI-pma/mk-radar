@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
-Outlook,Adopt,Kommunikation und Zusammenarbeit,WAHR,"<p>E-mail, Kontakte und Kalendar</p>"
-Slack,Trial,Kommunikation und Zusammenarbeit,WAHR,<p>Slack ist eine gruppenbasierte Kommunikationsplattform und ein Instant-Messaging-Dienst. Der Slack-MK-Workspace ist erreichbar unter: <a href=“https://kammerspiele.slack.com/“>https://kammerspiele.slack.com/</a></p>
-Wilma,Adopt,Information und Fernzugriff,WAHR,"<p>Wilma (Intranet der Stadt München, nur von Dienstgeräten aus erreichbar)</p>"
-Office 365,Adopt,Anwendungen,WAHR,<p><ul><li>Word</li><li>Excel</li><li>PowerPoint</li><li>OneNote</li></ul></p>
-Laptops,Adopt,Geräte und Ausstattung,WAHR,<p><ul><li>Notebook (15 Zoll)</li><li>Notebook  (13 Zoll)</li><li>Dockingstation für Laptops</li></ul></p>
+Outlook,Adopted,Kommunikation und Zusammenarbeit,WAHR,"<p>E-mail, Kontakte und Kalendar</p>"
+Slack,Testing,Kommunikation und Zusammenarbeit,WAHR,<p>Slack ist eine gruppenbasierte Kommunikationsplattform und ein Instant-Messaging-Dienst. Der Slack-MK-Workspace ist erreichbar unter: <a href=“https://kammerspiele.slack.com/“>https://kammerspiele.slack.com/</a></p>
+Wilma,Adopted,Information und Fernzugriff,WAHR,"<p>Wilma (Intranet der Stadt München, nur von Dienstgeräten aus erreichbar)</p>"
+Office 365,Adopted,Anwendungen,WAHR,<p><ul><li>Word</li><li>Excel</li><li>PowerPoint</li><li>OneNote</li></ul></p>
+Laptops,Adopted,Geräte und Ausstattung,WAHR,<p><ul><li>Notebook (15 Zoll)</li><li>Notebook  (13 Zoll)</li><li>Dockingstation für Laptops</li></ul></p>
